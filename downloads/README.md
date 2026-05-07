@@ -1,6 +1,7 @@
 # Downloaded list :
 
 - [100MB](./100MB)
+- [setup-Happ.x64](./setup-Happ.x64)
 
 ---
 
