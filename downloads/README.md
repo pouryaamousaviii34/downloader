@@ -9,6 +9,7 @@
 - [mhrv-rs-linux-musl-amd64.tar](./mhrv-rs-linux-musl-amd64.tar)
 - [mhrv-rs-windows-amd64](./mhrv-rs-windows-amd64)
 - [setup-Happ.x64](./setup-Happ.x64)
+- [windows-x64-nsis](./windows-x64-nsis)
 
 ---
 
